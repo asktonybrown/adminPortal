@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "adminportal",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/tonybrown/Projects/IT-APPDEV/Admin/amplify/backend/api/adminportal/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
